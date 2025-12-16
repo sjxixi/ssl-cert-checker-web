@@ -354,8 +354,8 @@ ImportDomainsFromText(text string) ImportDomainsResult
 ## 👨‍💻 作者
 
 **系统管理员**
-- Email: luokx3@163.com
-- GitHub: [@你的GitHub用户名](https://github.com/你的用户名)
+- Email: sjcache@gmail.com
+- GitHub: [@sjxixi](https://github.com/你的用户名)
 
 ---
 
@@ -372,7 +372,7 @@ ImportDomainsFromText(text string) ImportDomainsResult
 如果您在使用过程中遇到问题或有任何建议，欢迎：
 
 - 提交 [Issue](https://github.com/你的用户名/ssl-cert-checker/issues)
-- 发送邮件至 luokx3@163.com
+- 发送邮件至 sjcache@gmail.com
 - 在 [Discussions](https://github.com/你的用户名/ssl-cert-checker/discussions) 中讨论
 
 ---
