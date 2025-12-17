@@ -182,13 +182,13 @@ document.querySelector('#app').innerHTML = `
                     
                     <!-- 右侧：筛选和排序控制 -->
                     <div class="filter-section">
-                        <div class="filter-item">
-                            <label class="filter-label">🔍 搜索</label>
-                            <input type="text" id="domainSearchInput" class="filter-input" placeholder="输入域名关键词..." />
+                        <div class="filter-item filter-item-with-icon">
+                            <span class="filter-icon">🔍</span>
+                            <input type="text" id="domainSearchInput" class="filter-input filter-input-with-icon" placeholder="输入域名关键词..." />
                         </div>
-                        <div class="filter-item">
-                            <label class="filter-label">📊 排序</label>
-                            <select id="sortSelect" class="filter-select">
+                        <div class="filter-item filter-item-with-icon">
+                            <span class="filter-icon">📊</span>
+                            <select id="sortSelect" class="filter-select filter-select-with-icon">
                                 <option value="days-asc">剩余天数 ↑</option>
                                 <option value="days-desc">剩余天数 ↓</option>
                                 <option value="status">安全状态</option>
